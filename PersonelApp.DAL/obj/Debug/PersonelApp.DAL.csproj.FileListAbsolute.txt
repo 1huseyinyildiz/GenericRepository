@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.dll.config
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.dll
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\PersonelApp.DAL.pdb
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\PersonelApp.Domain.dll
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\PersonelApp.Domain.pdb
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csprojResolveAssemblyReference.cache
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.dll
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.pdb
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.Migrations.CreatePersonelMigration.resources
+C:\Users\husey\Desktop\Asp.Net\Tasarım Desenleri\PROJECT\GenericRepository\PersonelApp.DAL\obj\Debug\PersonelApp.DAL.csproj.GenerateResource.Cache
